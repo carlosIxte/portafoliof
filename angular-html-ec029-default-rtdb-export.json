@@ -1,0 +1,27 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Carlos Ixtetelá",
+    "subtitulo" : "CEO/FOUNDER",
+    "twitter" : "@carlos_idl",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-ec029.appspot.com/o/pr3.jpg?alt=media&token=e3965089-8be5-4bee-913a-fd18865bc8b9"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Mario Herrarte",
+    "subtitulo" : "WEB DEVELOPER",
+    "twitter" : "@herrarte365",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-ec029.appspot.com/o/pr2.jpg?alt=media&token=11d56efe-e4a8-4840-a6d8-e836ac186f88"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Cesar Poac",
+    "subtitulo" : "WEB FULLSTACK DEVELOPER",
+    "twitter" : "@checha7991",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-ec029.appspot.com/o/pr1.jpg?alt=media&token=d3ddd739-c52a-4a27-bb27-3142d3ac7ed9"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. ",
+    "nombre" : "Pablo Ricci",
+    "subtitulo" : "CEO CO-FOUNDER",
+    "twitter" : "@jpricci",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-ec029.appspot.com/o/pr4.jpg?alt=media&token=591d6b52-a179-4ba9-ba15-7ab2a47db917"
+  } ]
+}

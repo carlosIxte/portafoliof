@@ -1,5 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
 
+
+/*
+  codigo csv
+*/
+
+svg path,
+svg rect {
+    fill: black;
+    /* Animaciones */
+}
+
 .mainTitle {
     animation: fadeIn;
     animation-duration: 0.6s;

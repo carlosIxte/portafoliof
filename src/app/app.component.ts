@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { InfoPaginaService } from './services/info-pagina.service';
+import { ProductosService } from './services/productos.service';
 
 @Component({
   selector: 'app-root',
@@ -11,7 +12,8 @@ export class AppComponent {
     throw new Error('Method not implemented.');
   }
 
-  constructor(public infoPaginaService: InfoPaginaService){
+  constructor(public infoPaginaService: InfoPaginaService,
+              public productosService: ProductosService ) {
 
   }
 }
